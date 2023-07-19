@@ -1,0 +1,4 @@
+brainflow==5.8.2
+nptyping==1.4.4
+numpy==1.25.1
+typish==1.9.3
